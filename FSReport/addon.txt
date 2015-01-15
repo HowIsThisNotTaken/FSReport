@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name"		"FS Report Module"
+	"version"	"1.0"
+	"up_date"	""
+	"author_name"	"Linger7"
+	"author_email"	""
+	"author_url"	"https://github.com/Linger7/FS_Admin"
+	
+	"info"		"Report Module for GarrysMod"
+	
+	"GCFRequires"
+	{
+	}
+}
